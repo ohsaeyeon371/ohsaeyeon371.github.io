@@ -38,8 +38,8 @@
     {{ partial "header.html" . }}
 
     <main>
-        {{ block "main" . }}{{ .Content }}{{ end }}
-        
+        {{ block "main" . }}{{ .Content | safeHTML }}{{ end }}
+
         <!-- Google Maps Script -->
         <div id="map" style="height:400px; width:100%;"></div>
         <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
