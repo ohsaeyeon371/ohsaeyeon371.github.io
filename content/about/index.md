@@ -10,8 +10,8 @@ type: widget_page
 </nav>
 
 <div id="content">
-  <p data-lang="en">Hi, there! I'm Alice, a machine learning researcher at Netflix.</p>
-  <p data-lang="ko">안녕하세요! 저는 Netflix에서 기계 학습 연구원으로 일하는 Alice입니다.</p>
+  <p data-lang="en">Hello</p>
+  <p data-lang="ko">안녕하세요</p>
 </div>
 
 <script>
