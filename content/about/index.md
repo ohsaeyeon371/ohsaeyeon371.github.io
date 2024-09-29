@@ -11,7 +11,7 @@ type: widget_page
 
 <div id="content">
   <p data-lang="en">Hello</p>
-  <p data-lang="ko">안녕하세요</p>
+  <p data-lang="ko">안녕하세요. 저는 생물산업기계공학과 오세연입니다.</p>
 </div>
 
 <script>
