@@ -36,4 +36,10 @@ title: "My Map"
 
 {{< osm lat="37.5665" lng="126.9780" zoom="13" >}} -->
 
-![Google Map](https://maps.googleapis.com/maps/api/staticmap?center=37.5665,126.9780&zoom=13&size=600x400&key=YOUR_API_KEY)
+---
+title: "OpenStreetMap Example"
+---
+
+# OpenStreetMap Example
+
+![OpenStreetMap Seoul](https://staticmap.openstreetmap.de/staticmap.php?center=37.5665,126.9780&zoom=13&size=600x400)
