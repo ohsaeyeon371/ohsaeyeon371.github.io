@@ -27,11 +27,13 @@
 </body>
 </html> -->
 
-
+<!-- 
 ---
 title: "My Map"
 ---
 
 여기에 OpenStreetMap 지도가 표시됩니다.
 
-{{< osm lat="37.5665" lng="126.9780" zoom="13" >}}
+{{< osm lat="37.5665" lng="126.9780" zoom="13" >}} -->
+
+![Google Map](https://maps.googleapis.com/maps/api/staticmap?center=37.5665,126.9780&zoom=13&size=600x400&key=YOUR_API_KEY)
