@@ -18,7 +18,5 @@ title: Search
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 layout: "search"
-url: "/search"
-summary: "search"
 author: admin
 ---
