@@ -51,10 +51,14 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/saeyeon371
+    - icon: github
+    icon_pack: fab
+    link: https://github.com/ohsaeyeon371?tab=repositories
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: https://github.com/ohsaeyeon371?tab=repositories
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
