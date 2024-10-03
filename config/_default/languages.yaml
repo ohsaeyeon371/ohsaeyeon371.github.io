@@ -3,17 +3,17 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-# ko:
-#   languageCode: ko-kr
+ko:
+  languageCode: ko-kr
 
 
-languages:
-  ko:
-    languageCode: ko-kr
-    weight: 1   
-  en:
-    languageCode: en
-    weight: 2
+# languages:
+#   ko:
+#     languageCode: ko-kr
+  #   weight: 1   
+  # en:
+  #   languageCode: en
+  #   weight: 2
 
 # languages:
 #   ko:
