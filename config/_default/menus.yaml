@@ -10,6 +10,6 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-  - name: Resumé
+  - name: Search
     url: search/
     weight: 30
