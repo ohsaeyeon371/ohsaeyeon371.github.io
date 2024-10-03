@@ -13,9 +13,3 @@ main:
     - name: first
     url: first/
     weight: 20
-  - name: second
-    url: about/
-    weight: 20
-  - name: third
-    url: about/
-    weight: 20
