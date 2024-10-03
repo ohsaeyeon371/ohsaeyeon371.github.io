@@ -3,8 +3,8 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-ko-kr:
-  languageCode: ko-kr
+ko:
+  languageCode: ko
 
 
 # languages:
