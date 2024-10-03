@@ -11,23 +11,23 @@ languages:
     languageCode: ko-kr
     languageName: 한국어
     weight: 1
-    contentDir: content/ko
+    # contentDir: content/ko
   en:
     languageCode: en-us
     languageName: English
     weight: 2
-    contentDir: content/en
+    # contentDir: content/en
 
-  #Uncomment for multi-lingual sites, and move Korean content into `ko` sub-folder.
-  #contentDir: content/ko
+#   #Uncomment for multi-lingual sites, and move Korean content into `ko` sub-folder.
+#   #contentDir: content/ko
 
-<nav>
-  <ul>
-    {{ range .Site.Languages }}
-      <li><a href="{{ .Permalink }}">{{ .LanguageName }}</a></li>
-    {{ end }}
-  </ul>
-</nav>
+# <nav>
+#   <ul>
+#     {{ range .Site.Languages }}
+#       <li><a href="{{ .Permalink }}">{{ .LanguageName }}</a></li>
+#     {{ end }}
+#   </ul>
+# </nav>
 
 
 # Uncomment the lines below to configure your website in a second language.
