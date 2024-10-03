@@ -6,17 +6,26 @@
 # ko:
 #   languageCode: ko-kr
 
+
 languages:
   ko:
     languageCode: ko-
-    languageName: 한국어
     weight: 1
-    # contentDir: content/ko
   en:
     languageCode: en
-    languageName: English
     weight: 2
-    # contentDir: content/en
+
+# languages:
+#   ko:
+#     languageCode: ko-
+#     languageName: 한국어
+#     weight: 1
+#     # contentDir: content/ko
+#   en:
+#     languageCode: en
+#     languageName: English
+#     weight: 2
+#     # contentDir: content/en
 
 #   #Uncomment for multi-lingual sites, and move Korean content into `ko` sub-folder.
 #   #contentDir: content/ko
