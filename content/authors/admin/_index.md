@@ -51,7 +51,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/saeyeon371
-    - icon: github
+  - icon: github
     icon_pack: fab
     link: https://github.com/ohsaeyeon371?tab=repositories
 
