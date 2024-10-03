@@ -17,7 +17,8 @@ languages:
     languageName: English
     weight: 2
     contentDir: content/en
-  # Uncomment for multi-lingual sites, and move Korean content into `ko` sub-folder.
+
+  #Uncomment for multi-lingual sites, and move Korean content into `ko` sub-folder.
   #contentDir: content/ko
 
 <nav>
