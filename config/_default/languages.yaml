@@ -5,15 +5,11 @@
 # Default language
 ko:
   languageCode: ko
+  weight: 1
 
-
-# languages:
-#   ko:
-#     languageCode: ko-kr
-  #   weight: 1   
-  # en:
-  #   languageCode: en
-  #   weight: 2
+  en:
+    languageCode: en
+    weight: 2
 
 # languages:
 #   ko:
