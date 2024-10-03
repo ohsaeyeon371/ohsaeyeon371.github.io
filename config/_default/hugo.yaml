@@ -24,9 +24,9 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ko
-hasCJKLanguage: true
-defaultContentLanguageInSubdir: true
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
