@@ -8,12 +8,12 @@
 
 languages:
   ko:
-    languageCode: ko-kr
+    languageCode: ko-
     languageName: 한국어
     weight: 1
     # contentDir: content/ko
   en:
-    languageCode: en-us
+    languageCode: en
     languageName: English
     weight: 2
     # contentDir: content/en
