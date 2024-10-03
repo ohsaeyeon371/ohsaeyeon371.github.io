@@ -9,8 +9,8 @@
 
 languages:
   ko:
-    languageCode: ko-
-    weight: 1
+    languageCode: ko-kr
+    weight: 1   
   en:
     languageCode: en
     weight: 2
