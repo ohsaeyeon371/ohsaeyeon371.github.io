@@ -10,6 +10,3 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-    - name: first
-    url: first/
-    weight: 20
