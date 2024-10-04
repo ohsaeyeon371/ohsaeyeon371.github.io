@@ -45,7 +45,13 @@ header:
     show_search: true
     highlight_active_link: false
     fixed_to_top: true
- 
+    icons:
+      - icon: search
+        icon_pack: fas
+        url: /search/
+      - icon: globe
+        icon_pack: fas
+        url: /language/
 
 footer:
   copyright:
