@@ -1,3 +1,4 @@
+---
 # An instance of the About widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: google
@@ -17,3 +18,5 @@ title: google
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 layout: "google"
+
+---
