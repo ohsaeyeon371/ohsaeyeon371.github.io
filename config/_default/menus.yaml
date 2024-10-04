@@ -13,6 +13,16 @@ main:
   - name: Search
     url: search/
     weight: 30
+     children:
+      - name: Google
+        url: https://www.google.com
+        weight: 1
+      - name: Bing
+        url: https://www.bing.com
+        weight: 2
+      - name: Internal Search
+        url: /search/
+        weight: 3
   - name: Experience
     url: experience/
     weight: 40
