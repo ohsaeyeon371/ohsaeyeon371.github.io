@@ -42,9 +42,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
@@ -54,13 +51,21 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ohsaeyeon371?tab=repositories
-  - icon: link
+  - icon: linkedin
     icon_pack: fab
-    link: https://kr.linkedin.com/
-    
+    link: https://www.linkedin.com/in/%EC%84%B8%EC%97%B0-%EC%98%A4-2a124a331/
+  - icon: slack
+    icon_pack: fab
+    link: 'https://slack.com/ohsaeyeon371'
+  - icon: facebook
+    icon_pack: fab
+    link: 'https://facebook.com/username'
 
 
     
+
+
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
