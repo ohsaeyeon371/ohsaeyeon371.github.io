@@ -12,46 +12,24 @@ appearance:
   font: minimal
   font_size: L
 
-# # SEO
+# SEO
+
 
 marketing:
   seo:
-    site_type: Person  # 개인 웹사이트이므로 'Person' 유지
-    local_business_type: ''  # 개인 사이트이므로 비워둠
-    org_name: '전북대학교 오세연'  # 사이트 이름 또는 개인/조직명
-    description: '전북대학교에 재학 중인 오세연의 공식 웹사이트. 이력서 및 포트폴리오를 확인할 수 있습니다.'  # 사이트 설명
-    keywords: ["전북대", "오세연", "전북대학교", "이력서", "포트폴리오"]
-    twitter: '' 
-
-  
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''  # Google Analytics ID가 있으면 넣습니다 (예: 'UA-XXXXXXX-X')
-    baidu_tongji: ''  # 중국어 검색엔진을 위한 Baidu 통계 ID, 없다면 비워둠
-    google_tag_manager: ''  # Google Tag Manager ID, 없다면 비워둠
-    microsoft_clarity: ''  # Microsoft Clarity ID, 없다면 비워둠
-
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
-    google: ''  # Google Search Console 인증 코드
-    baidu: ''  # Baidu Search Console 인증 코드
-
-
-
-
-# marketing:
-#   seo:
-#     site_type: Person
-#     local_business_type: ''
-#     org_name: ''
-#     description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-#     twitter: 'GetResearchDev'
-#   analytics:
-#     google_analytics: ''
-#     baidu_tongji: ''
-#     google_tag_manager: ''
-#     microsoft_clarity: ''
-#   verification:
-#     google: ''
-#     baidu: ''
+    google: ''
+    baidu: ''
 
 
 
