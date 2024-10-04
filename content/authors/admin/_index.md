@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 저는 전북대학교에 재학 중인 오세연입니다. 이력서와 포트폴리오를 이곳에서 확인할 수 있습니다.
 
 #interests:
 #- Artificial Intelligence
