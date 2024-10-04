@@ -14,7 +14,10 @@ weight: 10
 
 title: introdution
 
-
+content:
+    coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
