@@ -115,3 +115,21 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+
+/* 기본 버튼 스타일 */
+button {
+  background-color: #2962ff;  /* 기본 배경색 */
+  color: white;  /* 기본 글자 색상 */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;  /* 부드러운 색상 전환 */
+}
+
+/* 마우스 호버 시 색상 변경 */
+button:hover {
+  background-color: #0039cb;  /* 호버 시 배경색 */
+  color: white;  /* 호버 시 글자 색상 */
+}
