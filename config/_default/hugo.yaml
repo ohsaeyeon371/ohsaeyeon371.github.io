@@ -13,7 +13,7 @@ baseURL: 'https://ohsaeyeon371.github.io/' # Website URL
 cascade:
   # Blog post options
   - _target:
-      glob: /post/**
+      path: /post/**
     editable: true
     reading_time: true
     commentable: true
