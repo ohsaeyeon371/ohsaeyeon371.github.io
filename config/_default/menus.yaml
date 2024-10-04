@@ -13,7 +13,7 @@ main:
   - name: Search
     url: search/
     weight: 30
-     children:
+    children:
       - name: Google
         url: https://www.google.com
         weight: 1
