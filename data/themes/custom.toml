@@ -1,14 +1,32 @@
 # Essentially Minimal theme but with constant home section bg color.
 name = "Starter Blog"
 
+[default]
+  primary = "#4caf50"  
+
+  menu_primary = "rgb(255, 255, 255)"  
+  menu_text = "#333333"  
+  menu_text_active = "#4caf50"  
+  menu_title = "#212121"  
+
+  background = "#f5f5f5" 
+  home_section_odd = "#ffffff"  
+  home_section_even = "#f7f7f7"  
+
+  link = "#4caf50"  
+  link_hover = "#388e3c"  
+
+  text_color = "#212121"  
+  header_text_color = "#333333" 
+
 [light]
   # Primary
-  primary = "#28a745"
+  primary = "#2962ff"
 
   # Menu
   menu_primary = "rgb(247, 250, 252)"
   menu_text = "#34495e"
-  menu_text_active = "#28a745"
+  menu_text_active = "#2962ff"
   menu_title = "#2b2b2b"
 
   # Home sections
@@ -23,17 +41,4 @@ name = "Starter Blog"
   home_section_odd = "rgb(26, 32, 44)"
   home_section_even = "rgb(26, 32, 44)"
   menu_primary = "rgb(26, 32, 44)"
-
-[basic]
-  primary = "#007bff"  
-  secondary = "#6c757d"  
-  background = "#ffffff"  
-  text_color = "#343a40"  
-  link_color = "#007bff"  
-  link_hover_color = "#0056b3" 
-  menu_background = "#f8f9fa"  
-  menu_text_color = "#343a40" 
-  button_color = "#28a745" 
-  button_hover_color = "#218838"
-
 

@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
-  theme_basic: custom
+  theme_default = "default"
+  theme_day: "light"
+  theme_night: "dark"
   font: minimal
   font_size: L
 
