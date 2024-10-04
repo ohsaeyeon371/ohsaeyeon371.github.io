@@ -133,3 +133,14 @@ button:hover {
   background-color: #0039cb;  /* 호버 시 배경색 */
   color: white;  /* 호버 시 글자 색상 */
 }
+
+/* 기본 텍스트 스타일 */
+.hover-text {
+  color: #000;  /* 기본 글자 색상 (검정색) */
+  cursor: pointer;  /* 마우스 커서를 포인터로 변경 */
+}
+
+/* 마우스를 올렸을 때 색상 변경 */
+.hover-text:hover {
+  color: #ff0000;  /* 호버 시 글자 색상 빨간색으로 변경 */
+}
