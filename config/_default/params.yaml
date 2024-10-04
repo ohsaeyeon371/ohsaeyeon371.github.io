@@ -45,6 +45,8 @@ header:
     show_search: true
     highlight_active_link: false
     fixed_to_top: true
+    blox: "navbar"
+    show_theme_chooser: true
  
 
 footer:
