@@ -73,11 +73,13 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-  changefreq: "weekly"  # 사이트맵 업데이트 빈도
-  priority: 0.5  # 사이트 중요도
-  page_options:
-    - path: /blog/**
-      changefreq: "daily
+  # changefreq: "weekly"  # 사이트맵 업데이트 빈도
+  # priority: 0.5  # 사이트 중요도
+  # page_options:
+  #   - path: /blog/**
+  #     changefreq: "daily
+
+
 enableRobotsTXT: true
 minify:
   _merge: deep
