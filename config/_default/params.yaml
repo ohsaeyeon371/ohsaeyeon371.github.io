@@ -93,7 +93,6 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-
   search:
     provider: wowchemy
     wowchemy:
@@ -107,7 +106,7 @@ features:
   #     api_key: '7e4aac23f4a8487d89a365cbd6166c4a'
   #     index_name: ''
   #     show_logo: true
-  # map:
+  map:
     provider: 'naver'
     api_key: 'gMvjRYP8X5l2hB5yhxEIdW90Wlfy0l7sDIcSBETo'
     zoom: 15
