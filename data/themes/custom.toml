@@ -3,7 +3,7 @@ name = "Starter Blog"
 
 [light]
   # Primary
-  primary = "#2962ff"
+  primary = "##00bcd4"
 
   # Menu
   menu_primary = "rgb(247, 250, 252)"
@@ -34,6 +34,6 @@ name = "Starter Blog"
   menu_background = "#f8f9fa"  
   menu_text_color = "#343a40" 
   button_color = "#28a745" 
-  button_hover_color = "#218838" 
+  button_hover_color = "#218838"
 
 
