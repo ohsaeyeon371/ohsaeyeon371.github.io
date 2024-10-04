@@ -23,3 +23,17 @@ name = "Starter Blog"
   home_section_odd = "rgb(26, 32, 44)"
   home_section_even = "rgb(26, 32, 44)"
   menu_primary = "rgb(26, 32, 44)"
+
+[basic]
+  primary = "#007bff"  
+  secondary = "#6c757d"  
+  background = "#ffffff"  
+  text_color = "#343a40"  
+  link_color = "#007bff"  
+  link_hover_color = "#0056b3" 
+  menu_background = "#f8f9fa"  
+  menu_text_color = "#343a40" 
+  button_color = "#28a745" 
+  button_hover_color = "#218838" 
+
+
