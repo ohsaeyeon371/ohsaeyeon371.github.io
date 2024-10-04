@@ -45,11 +45,6 @@ header:
     show_search: true
     highlight_active_link: false
     fixed_to_top: true
-    {{ $iconPath := "assets/media/earth.png" }}
-    <img src="{{ $iconPath | relURL }}" alt="Earth Icon">
-
-
-
 
 
 footer:
