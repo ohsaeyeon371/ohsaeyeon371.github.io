@@ -121,8 +121,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'naver'
+    api_key: 'gMvjRYP8X5l2hB5yhxEIdW90Wlfy0l7sDIcSBETo'
     zoom: 15
 
 extensions:
