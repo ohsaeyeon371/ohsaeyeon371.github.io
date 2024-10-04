@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_default = "default"
+  theme_default: "default"
   theme_day: "light"
   theme_night: "dark"
   font: minimal
