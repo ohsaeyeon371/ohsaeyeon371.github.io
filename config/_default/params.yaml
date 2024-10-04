@@ -38,14 +38,14 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: false
     show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
     fixed_to_top: true
-
+ 
 
 footer:
   copyright:
