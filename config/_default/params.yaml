@@ -98,21 +98,21 @@ features:
     wowchemy:
       min_length: 1  # Only the matches whose length exceeds this value will be returned.
       threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
-
-  # search:
-  #   provider: ''
-  #   algolia:
-  #     app_id: 'YBHWUJGKZH'
-  #     api_key: '7e4aac23f4a8487d89a365cbd6166c4a'
-  #     index_name: ''
-  #     show_logo: true
   map:
-    provider: 'naver'
-    api_key: 'gMvjRYP8X5l2hB5yhxEIdW90Wlfy0l7sDIcSBETo'
+    provider: 'mapnik'
+    api_key: ''
     zoom: 15
-    center:
-      lat: 37.5665  # 기본 중심 좌표 (예: 서울의 위도)
-      lng: 126.9780  # 기본 중심 좌표 (예: 서울의 경도)
+    content:
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
+  # map:
+  #   provider: 'naver'
+  #   api_key: 'gMvjRYP8X5l2hB5yhxEIdW90Wlfy0l7sDIcSBETo'
+  #   zoom: 15
+  #   center:
+  #     lat: 37.5665  # 기본 중심 좌표 (예: 서울의 위도)
+  #     lng: 126.9780  # 기본 중심 좌표 (예: 서울의 경도)
 
 extensions:
   cms:
