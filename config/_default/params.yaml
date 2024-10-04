@@ -38,7 +38,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: false
     show_language: true
     show_day_night: true
@@ -96,10 +96,10 @@ features:
   search:
     provider: ''
     algolia:
-      app_id: ''
-      api_key: ''
+      app_id: 'YBHWUJGKZH'
+      api_key: '7e4aac23f4a8487d89a365cbd6166c4a'
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'naver'
     api_key: 'gMvjRYP8X5l2hB5yhxEIdW90Wlfy0l7sDIcSBETo'
