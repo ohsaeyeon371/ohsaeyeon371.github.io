@@ -15,8 +15,11 @@ main:
     weight: 30
     hasChildren: true
   - parent: Search
-    name: Blog
-    url: blog/
+    name: Google
+    url: google/
+  - parent: Search
+    name: Naver
+    url: naver/
   - name: Experience
     url: experience/
     weight: 40
