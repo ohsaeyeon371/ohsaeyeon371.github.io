@@ -14,15 +14,12 @@ main:
     url: search/
     weight: 30
     children:
-      - name: Google
-        url: search/google/
+      - name: Advanced Search
+        url: search/advanced/
         weight: 1
-      - name: Bing
-        url: search/bing/
+      - name: Recent Searches
+        url: search/recent/
         weight: 2
-      - name: Internal Search
-        url: /search/internal
-        weight: 3
   - name: Experience
     url: experience/
     weight: 40
