@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ohsaeyeon's # Website name
-baseURL: 'https://ohsaeyeon371.github.io' # Website URL
+baseURL: 'https://ohsaeyeon371.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -19,6 +19,7 @@ cascade:
     commentable: true
     show_related: true
     show_breadcrumb: true
+    toc: true
 
 ############################
 ## LANGUAGE
@@ -72,5 +73,11 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  changefreq: "weekly"  # 사이트맵 업데이트 빈도
+  priority: 0.5  # 사이트 중요도
+  page_options:
+    - path: /blog/**
+      changefreq: "daily
+enableRobotsTXT: true
 minify:
   _merge: deep
