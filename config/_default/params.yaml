@@ -56,7 +56,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "earth.png"
     show_search: true
     show_theme_chooser: true
 
