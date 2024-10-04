@@ -54,7 +54,13 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ohsaeyeon371?tab=repositories
+  - icon: link
+    icon_pack: fab
+    link: https://kr.linkedin.com/
+    
 
+
+    
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
