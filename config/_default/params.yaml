@@ -46,6 +46,7 @@ marketing:
 #     highlight_active_link: false
 #     fixed_to_top: true
 
+# Site header
 header:
   navbar:
     enable: true
@@ -56,6 +57,8 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
+    show_search: true
+    show_theme_chooser: true
 
 footer:
   copyright:
