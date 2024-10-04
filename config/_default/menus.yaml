@@ -13,8 +13,6 @@ main:
   - name: Search
     url: search/
     weight: 30
-    icon: globe
-    icon_pack: fas
   - name: Experience
     url: experience/
     weight: 40

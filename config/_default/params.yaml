@@ -39,7 +39,7 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
+    show_logo: false
     show_language: true
     show_day_night: true
     show_search: true
@@ -97,7 +97,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'naver'
     api_key: 'gMvjRYP8X5l2hB5yhxEIdW90Wlfy0l7sDIcSBETo'
