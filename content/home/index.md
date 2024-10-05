@@ -1,9 +1,9 @@
 ---
-# Homepage
-type: widget_page
+title: Tour
+date: 2022-10-24
 
-# Homepage is headless, other widget pages are not.
-headless: true
+type: landing
+
 sections:
   - block: slider
     content:
@@ -50,6 +50,4 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
----
----
+     
