@@ -17,6 +17,7 @@ weight: 10
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
+author: admin
 title: Tour
 date: 2022-10-24
 
