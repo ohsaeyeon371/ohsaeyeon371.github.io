@@ -1,6 +1,4 @@
 name: Deploy website to GitHub Pages
-
-name: Generate Pagefind search index
 run: npx pagefind --source "public"
 
 env:
