@@ -8,24 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-design:
-    background:
-        iamge:
-            filename: welcome.jpg   
-            filters:
-                brightness: 0.6 
-            size: cover 
 
-# author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
-
-# author: admin
 title: home
 date: 2022-10-24
 
