@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: projects
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'projects'
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
