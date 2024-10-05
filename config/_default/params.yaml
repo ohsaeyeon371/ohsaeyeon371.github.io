@@ -102,10 +102,10 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
-    content:
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+    # content:
+    #   coordinates:
+    #     latitude: '37.4275'
+    #     longitude: '-122.1697'
   # map:
   #   provider: 'naver'
   #   api_key: 'gMvjRYP8X5l2hB5yhxEIdW90Wlfy0l7sDIcSBETo'
