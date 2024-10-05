@@ -18,7 +18,7 @@ weight: 10
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 author: admin
-title: Tour
+title: home
 date: 2022-10-24
 
 type: landing
