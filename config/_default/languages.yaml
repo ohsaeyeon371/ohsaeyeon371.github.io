@@ -6,7 +6,8 @@
 ko:
   languageCode: "한국어"
   weight: 1
-
+  params:
+      custom_param_name: value
   en:
     languageCode: "English"
     weight: 2

@@ -14,16 +14,10 @@ weight: 10
 
 title: Hello
 
-{{ $author := "" }}
-{{ if .Params.author }}
-  {{ $author = .Params.author }}
-{{ else }}
-  {{ $author = .Site.Params.defaultAuthor }}
-{{ end }}
 
 
 # Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# This should be the username (folder name) of a profile in your `content/s/` folder.
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 author: admin
 ---

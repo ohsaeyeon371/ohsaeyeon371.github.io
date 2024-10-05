@@ -15,7 +15,7 @@ weight: 30
 title: google
 
 # Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# This should be the username (folder name) of a profile in your `content/s/` folder.
 # See https://docs.hugoblox.com/get-started/#introduce-yourself
 layout: "google"
 
