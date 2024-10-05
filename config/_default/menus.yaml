@@ -17,9 +17,11 @@ main:
   - parent: Search
     name: Google
     url: google/
+    weight: 1
   - parent: Search
     name: Naver
     url: naver/
+    weight: 2
   - name: Experience
     url: experience/
     weight: 40
