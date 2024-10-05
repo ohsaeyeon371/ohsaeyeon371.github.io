@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2024-10-05
 
 type: landing
 
@@ -22,7 +22,6 @@ sections:
       coordinates:
         latitude: '35.847408'
         longitude: '127.130051'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
