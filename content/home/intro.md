@@ -17,6 +17,7 @@ weight: 10
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
+
 author: admin
 title: home
 date: 2022-10-24
@@ -66,9 +67,11 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
----
 
-👋 안녕하세요. 저는 생물산업기계공학과 22학번 오세연입니다. ,
+
+---
+👋 안녕하세요. 저는 생물산업기계공학과 22학번 오세연입니다. 
+
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😍
