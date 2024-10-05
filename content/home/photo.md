@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Tour
 date: 2022-10-24
 
@@ -38,11 +38,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -51,4 +47,4 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
----
+--- -->
