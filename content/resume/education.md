@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: projects
+title: Projects
 subtitle:
 
 # Date format for experience
@@ -33,6 +33,7 @@ experience:
         * Dissertation on Y
         * Basketball team
         * DJ club
+    external_link: http://github.com
 
   - title: BEng Electronic Engineering
     company: University X
@@ -42,6 +43,7 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: My dissertation was on X
+    external_link: http://github.com
 
 design:
   columns: '1'
