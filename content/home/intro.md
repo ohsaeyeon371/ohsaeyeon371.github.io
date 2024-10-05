@@ -8,6 +8,67 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
+
+# author: admin
+#design:
+#  background:
+#    color: '#090a0b'
+#    text_color_light: true
+#    video:
+#      path:  # enter filename of a video in /assets/media
+#  css_class: fullscreen
+
+author: admin
+title: home
+date: 2022-10-24
+
+type: landing
+
+sections:
+  - block: slider
+    content:
+      slides:
+      - title: 👋 Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Lunch & Learn ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: World-Class Semiconductor Lab
+        content: 'Just opened last month!'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+
+
 ---
 👋 안녕하세요. 저는 생물산업기계공학과 22학번 오세연입니다. 
 

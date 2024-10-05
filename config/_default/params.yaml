@@ -102,6 +102,17 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+    content:
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
+  # map:
+  #   provider: 'naver'
+  #   api_key: 'gMvjRYP8X5l2hB5yhxEIdW90Wlfy0l7sDIcSBETo'
+  #   zoom: 15
+  #   center:
+  #     lat: 37.5665  # 기본 중심 좌표 (예: 서울의 위도)
+  #     lng: 126.9780  # 기본 중심 좌표 (예: 서울의 경도)
 
 extensions:
   cms:

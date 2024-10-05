@@ -4,17 +4,23 @@
 
 # Default language
 ko:
-  languageCode: "한국어"
+  languageCode: ko
   weight: 1
-  params:
-      custom_param_name: value
-  en:
-    languageCode: "English"
-    weight: 2
+
+  # en:
+  #   languageCode: en
+  #   weight: 2
 
 #   #Uncomment for multi-lingual sites, and move Korean content into `ko` sub-folder.
 #   #contentDir: content/ko
 
+# <nav>
+#   <ul>
+#     {{ range .Site.Languages }}
+#       <li><a href="{{ .Permalink }}">{{ .LanguageName }}</a></li>
+#     {{ end }}
+#   </ul>
+# </nav>
 
 
 # Uncomment the lines below to configure your website in a second language.
