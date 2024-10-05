@@ -1,5 +1,8 @@
 name: Deploy website to GitHub Pages
 
+name: Generate Pagefind search index
+run: npx pagefind --source "public"
+
 env:
   WC_HUGO_VERSION: '0.124.1'
 

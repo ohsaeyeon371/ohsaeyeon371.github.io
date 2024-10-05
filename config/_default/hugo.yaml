@@ -78,8 +78,6 @@ sitemap:
   # page_options:
   #   - path: /blog/**
   #     changefreq: "daily
-
-
 enableRobotsTXT: true
 minify:
   _merge: deep
