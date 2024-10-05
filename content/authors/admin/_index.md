@@ -6,7 +6,7 @@ title: 오세연
 superuser: true
 
 # Role/position
-role: ''
+role: "학생"
 
 # Status emoji
 status:
