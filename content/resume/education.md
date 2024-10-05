@@ -30,9 +30,9 @@ experience:
     date_start: '2021-01-01'
     date_end: '2022-01-01'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * PROJECT1
+        * PROJECT2
+        * PROJECT3
     external_link: http://github.com
 
   - title: BEng Electronic Engineering
