@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Resumé
-    url: about/
+    url: resume/
     weight: 20
   - name: Search
     url: search/
