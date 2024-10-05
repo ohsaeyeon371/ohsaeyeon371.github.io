@@ -50,4 +50,4 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-     
+---
