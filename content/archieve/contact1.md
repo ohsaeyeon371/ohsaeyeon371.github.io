@@ -13,15 +13,15 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        street: 567 Baekje-daero
+        city: Jeonju-si
         region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        postcode: '54896'
+        country: South Korea
+        country_code: KR
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '35.847408'
+        longitude: '127.130051'
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
