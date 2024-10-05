@@ -8,10 +8,6 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-
-title: home
-date: 2022-10-24
-
 ---
 👋 안녕하세요. 저는 생물산업기계공학과 22학번 오세연입니다. 
 
