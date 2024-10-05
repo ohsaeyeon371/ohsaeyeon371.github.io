@@ -20,8 +20,8 @@ main:
   - parent: Search
     name: Naver
     url: naver/
-  - name: Experience
-    url: experience/
+  - name: Tour
+    url: tour/
     weight: 40
   - name: Contact
     url: contact/
